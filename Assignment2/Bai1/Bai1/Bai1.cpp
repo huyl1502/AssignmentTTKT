@@ -12,10 +12,11 @@ struct Employee {
 int main()
 {
 	int N;
-	Employee es[100];
 
 	cout << "So luong nhan vien: ";
 	cin >> N;
+
+	Employee* es = new Employee[N];
 
 	for (int i = 0; i < N; i++) {
 		cout << "Ten nhan vien " << i + 1 << ": ";
