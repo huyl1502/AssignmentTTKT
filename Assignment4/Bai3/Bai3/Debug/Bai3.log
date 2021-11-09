@@ -1,0 +1,5 @@
+﻿  Bai3.cpp
+C:\Users\huyl1\OneDrive\Desktop\Ttkt\Assignment4\Bai3\Bai3\Bai3.cpp(26,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\huyl1\OneDrive\Desktop\Ttkt\Assignment4\Bai3\Bai3\Bai3.cpp(51,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\huyl1\OneDrive\Desktop\Ttkt\Assignment4\Bai3\Bai3\Bai3.cpp(60,19): warning C4018: '>': signed/unsigned mismatch
+  Bai3.vcxproj -> C:\Users\huyl1\OneDrive\Desktop\Ttkt\Assignment4\Bai3\Debug\Bai3.exe
