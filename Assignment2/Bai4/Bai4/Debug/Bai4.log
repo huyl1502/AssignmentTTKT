@@ -1,2 +1,5 @@
 ﻿  Bai4.cpp
+C:\Users\huyl1\OneDrive\Desktop\Ttkt\Assignment2\Bai4\Bai4\Bai4.cpp(8,39): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\huyl1\OneDrive\Desktop\Ttkt\Assignment2\Bai4\Bai4\Bai4.cpp(106,7): warning C4101: 'a': unreferenced local variable
+C:\Users\huyl1\OneDrive\Desktop\Ttkt\Assignment2\Bai4\Bai4\Bai4.cpp(106,15): warning C4101: 'b': unreferenced local variable
   Bai4.vcxproj -> C:\Users\huyl1\OneDrive\Desktop\Ttkt\Assignment2\Bai4\Debug\Bai4.exe
